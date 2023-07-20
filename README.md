@@ -15,5 +15,4 @@
 - Oracle DB (UNIX server)
 - 웹 어플리케이션을 사용하는 사용자와 WAS가 통신하면 WAS는 DB서버에 requests를 보내 transaction을 이르킨다.
 ## E-R Diagram
-- 
 ![스크린샷 2023-07-21 오전 12 27 21](https://github.com/hanmin0512/my_project/assets/37041208/1aaf53c7-daa3-4e72-9635-9d0c5a73660a)
